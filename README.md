@@ -1,4 +1,15 @@
+  # AIGames
   
+  Some games that you can play against AI that uses Min Max Optimization Algorithm. 
+  
+  Coded as homework requested by my Programing Lang Teacher.
+  
+  ## What did I learn? 
+  - Haskell Programming.
+  - Data.Matrix functions.
+  - New board games like Chomp and Hex.
+  - Evaluation/decision functions for the algorithm.
+  - Makefile implementation.
   
 
 # Dependencias
